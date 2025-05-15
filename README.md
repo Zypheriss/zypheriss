@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<table width="100%">
+<table width="200%">
   <tr>
     <td width="55%" align="center" valign="top">
       <img height="300" src="https://github.com/Zypheriss/zypheriss/blob/main/zypheriss.gif?raw=true" alt="GIF" />
