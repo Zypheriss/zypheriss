@@ -7,7 +7,7 @@
 
 <table width="200%">
   <tr>
-    <td width="100%" align="center" valign="top">
+    <td width="55%" align="center" valign="top">
       <img height="300" src="https://github.com/Zypheriss/zypheriss/blob/main/zypheriss.gif?raw=true" alt="GIF" />
     </td>
     <td width="45%" align="center" valign="top">
