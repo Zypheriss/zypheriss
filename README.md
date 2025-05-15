@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/ilwixi7" target="_blank" rel="noopener noreferrer" style="margin:0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28" />
   </a>
-  <a href="https://itemsatis.com/liviuxs" target="_blank" rel="noopener noreferrer" style="margin:0 10px; display: inline-block; padding: 0 10px; background-color: #FF6F61; border-radius: 6px; vertical-align: middle;">
+  <a href="https://www.itemsatis.com/profil/liviuxs.html" target="_blank" rel="noopener noreferrer" style="margin:0 10px; display: inline-block; padding: 0 10px; background-color: #FF6F61; border-radius: 6px; vertical-align: middle;">
     <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="28" style="vertical-align: middle;" />
   </a>
 </p>
