@@ -11,6 +11,6 @@
 
 
 [instagram]: https://www.instagram.com/ilwixi7
-[discord]: https://discord.com/users/773582512647569409
+
 <br />
 
