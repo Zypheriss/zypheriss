@@ -21,7 +21,7 @@
   <a href="https://discord.com/users/773582512647569409" target="_blank" rel="noopener noreferrer" style="margin:0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="28" />
   </a>
-  <a href="https://www.instagram.com/zypheriss" target="_blank" rel="noopener noreferrer" style="margin:0 10px; display: inline-block;">
+  <a href="https://www.instagram.com/ilwixi7" target="_blank" rel="noopener noreferrer" style="margin:0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28" />
   </a>
   <a href="https://itemsatis.com/zypheris" target="_blank" rel="noopener noreferrer" style="margin:0 10px; display: inline-block; padding: 0 10px; background-color: #FF6F61; border-radius: 6px; vertical-align: middle;">
