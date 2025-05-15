@@ -1,9 +1,10 @@
 <p float="left">
   <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Ziyaretçi Sayacı" width="120" />
   <a href="https://discord.com/users/773582512647569409">
-    <img src="https://lanyard-profile-readme.vercel.app/api/773582512647569409?hideDiscrim=true&theme=dark&bg=1d2022&animated=true&hideStatus=false" alt="Discord Presence" width="200" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/773582512647569409?hideDiscrim=true&theme=dark&bg=1d2022&animated=true&hideStatus=false" alt="Discord Presence" width="280" />
   </a>
 </p>
+
 <table width="100%">
   <tr>
     <td width="55%" align="center" valign="top">
