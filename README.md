@@ -3,9 +3,10 @@
   <a href="https://discord.com/users/773582512647569409">
     <img src="https://lanyard.cnrad.dev/api/773582512647569409" alt="Discord Presence" width="380" />
   </a>
+  <a href="https://github.com/zypheriss">
+    <img src="https://img.shields.io/github/followers/zypheriss?label=Takipci&style=social" alt="GitHub Followers" width="120" />
+  </a>
 </p>
-
-[![GitHub Zypheris](https://img.shields.io/github/followers/zypheriss?label=Takipci&style=social)](https://github.com/zypheriss)&nbsp;
 
 <table width="100%">
   <tr>
@@ -13,8 +14,8 @@
       <img height="300" src="https://github.com/Zypheriss/zypheriss/blob/main/zypheriss.gif?raw=true" alt="GIF" />
     </td>
     <td width="45%" align="center" valign="top">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=zypheriss&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="zyp" />
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=zypheriss&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="zyp" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=zypheriss&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=zypheriss&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
@@ -30,3 +31,4 @@
     <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="28" style="vertical-align: middle;" />
   </a>
 </p>
+
