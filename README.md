@@ -1,8 +1,11 @@
 <p float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Ziyaretçi Sayacı" width="120" />
+  <a href="https://discord.com/users/773582512647569409">
     <img src="https://lanyard.cnrad.dev/api/773582512647569409" alt="Discord Presence" width="380" />
   </a>
 </p>
+
+[![GitHub Zypheris](https://img.shields.io/github/followers/zypheriss?label=Takipci&style=social)](https://github.com/zypheriss)&nbsp;
 
 <table width="100%">
   <tr>
