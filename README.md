@@ -1,6 +1,5 @@
 <p float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Ziyaretçi Sayacı" width="120" />
-  <a href="https://discord.com/users/773582512647569409">
     <img src="https://lanyard.cnrad.dev/api/773582512647569409?hideSpotify=true" alt="Discord Presence" width="380" />
   </a>
 </p>
