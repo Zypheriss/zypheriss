@@ -1,12 +1,10 @@
 <h1 align="center">👋 Merhaba, ben Zypheris!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Görüntüleme Sayacı" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/zypheriss">
-    <img src="https://img.shields.io/github/followers/zypheriss?label=Takipçi&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=zypheris&label=Profile%20views&color=blue" alt="Ziyaretçi Sayısı" />
+  <img src="https://img.shields.io/github/followers/zypheriss?label=Takipçi&style=flat-square&logo=github" alt="GitHub Takipçi" />
 </p>
+
 
 <p align="center">
   <a href="https://discord.com/users/773582512647569409">
