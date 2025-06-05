@@ -4,13 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Ziyaretçi Sayacı" />
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/zypheriss">
-    <img src="https://img.shields.io/github/followers/zypheriss?label=Takipçi&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://discord.com/users/773582512647569409">
     <img src="https://lanyard.cnrad.dev/api/773582512647569409" alt="Discord Presence" />
