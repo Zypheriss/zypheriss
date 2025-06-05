@@ -9,13 +9,11 @@
     <img src="https://lanyard.cnrad.dev/api/773582512647569409" alt="Discord Presence" />
   </a>
 </p>
-
-<p align="center">
+  </a>
   <a href="https://github.com/zypheriss">
-    <img src="https://img.shields.io/github/followers/zypheriss?label=Takipçi&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/zypheriss?label=Takipci&style=social" alt="GitHub Followers" width="120" />
   </a>
 </p>
-
 ---
 
 <table>
