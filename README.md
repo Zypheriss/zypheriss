@@ -1,7 +1,5 @@
-<h1 align="center">👋 Merhaba, ben Zypheris!</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Ziyaretçi Sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=zypheriss&color=blue" alt="Profil Ziyaretçi Sayacı" />
 </p>
 
 <p align="center">
@@ -12,28 +10,30 @@
 
 <p align="center">
   <a href="https://github.com/zypheriss">
-    <img src="https://img.shields.io/github/followers/zypheriss?label=Takipçi&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/zypheriss?label=GitHub Takipçi&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
----
+<br/>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/Zypheriss/zypheriss/blob/main/zypheriss.gif?raw=true" alt="GIF" height="300"/>
+      <img src="https://github.com/Zypheriss/zypheriss/blob/main/zypheriss.gif?raw=true" alt="Zypheris GIF" height="280" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=zypheriss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zypheriss&layout=compact&langs_count=8&theme=algolia" height="180" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=zypheriss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zypheriss&layout=compact&langs_count=8&theme=algolia" height="180" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-<h3 align="center">📫 Beni Takip Et</h3>
+<p align="center">
+  <strong>📌 Beni Takip Et</strong>
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/773582512647569409" target="_blank">
@@ -43,6 +43,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.itemsatis.com/profil/liviuxs.html" target="_blank">
-    <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="28" />
+    <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="36" />
   </a>
 </p>
