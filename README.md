@@ -1,7 +1,11 @@
 <h1 align="center">👋 Merhaba, ben Zypheris!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Ziyaretçi Sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Görüntüleme Sayacı" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/zypheriss">
+    <img src="https://img.shields.io/github/followers/zypheriss?label=Takipçi&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
 <p align="center">
@@ -9,11 +13,7 @@
     <img src="https://lanyard.cnrad.dev/api/773582512647569409" alt="Discord Presence" />
   </a>
 </p>
-  </a>
-  <a href="https://github.com/zypheriss">
-    <img src="https://img.shields.io/github/followers/zypheriss?label=Takipci&style=social" alt="GitHub Followers" width="120" />
-  </a>
-</p>
+
 ---
 
 <table>
