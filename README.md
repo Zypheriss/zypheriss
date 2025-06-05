@@ -19,7 +19,17 @@
     </td>
   </tr>
 </table>
+<h3 align="left">🎧 zyp</h3>
 
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31hkg7jaj6mbj37lgkd2huaeakfa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hkg7jaj6mbj37lgkd2huaeakfal&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 <p align="center">
   <a href="https://discord.com/users/773582512647569409" target="_blank" rel="noopener noreferrer" style="margin:0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="28" />
