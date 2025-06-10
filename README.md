@@ -1,7 +1,7 @@
 <h1 align="center">👋 Merhaba, ben Zypheris!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zypheris&color=blue" alt="Profil Ziyaretçi Sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=zypheriss&color=blue" alt="Profil Ziyaretçi Sayacı" />
 </p>
 
 <p align="center">
