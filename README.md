@@ -38,6 +38,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.itemsatis.com/profil/liviuxs.html" target="_blank">
-    <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="28" />
+    <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="15" />
   </a>
 </p>
