@@ -4,27 +4,26 @@
   <img src="https://komarev.com/ghpvc/?username=zypheriss&color=blue" alt="Profil Ziyaretçi Sayacı" />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/773582512647569409">
-    <img src="https://lanyard.cnrad.dev/api/773582512647569409" alt="Discord Presence" />
-  </a>
-</p>
+## 👾 Discord Info:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1015356240492245054?hideSpotify=false)](https://discord.com/users/1015356240492245054)
+    
+</div>
 
 
 ---
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/Zypheriss/zypheriss/blob/main/zypheriss.gif?raw=true" alt="GIF" height="300"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=zypheriss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zypheriss&layout=compact&langs_count=8&theme=algolia" height="180" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## 🏆 My Stats:
+    
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=ZypherissO&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zypheriss&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="zyp" />
+    <br>
+<img src="https://github-profile-trophy.vercel.app/?username=Zyperiss&theme=radical" />
+</p>    
+    
+    
+</div>
+
 
 ---
 
