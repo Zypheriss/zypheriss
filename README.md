@@ -5,7 +5,7 @@
 </p>
 
 ## 👾 Discord Info:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1015356240492245054?hideSpotify=false)](https://discord.com/users/1015356240492245054)
+[![Discord Presence](https://lanyard.cnrad.dev/api/773582512647569409?hideSpotify=false)](https://discord.com/users/773582512647569409)
     
 </div>
 
@@ -18,7 +18,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=ZypherissO&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zypheriss&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="zyp" />
     <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Zyperiss&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=Zypheriss&theme=radical" />
 </p>    
     
     
