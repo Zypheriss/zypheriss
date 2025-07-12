@@ -4,11 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=zypheriss&color=blue" alt="Profil Ziyaretçi Sayacı" />
 </p>
 
-## 👾 Discord Info:
-[![Discord Presence](https://lanyard.cnrad.dev/api/773582512647569409?hideSpotify=false)](https://discord.com/users/773582512647569409)
-    
-</div>
 
+<h3 align="center">📫 Beni Takip Et</h3>
+
+<p align="center">
+  <a href="https://discord.com/users/773582512647569409" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/ilwixi7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.itemsatis.com/profil/liviuxs.html" target="_blank">
+    <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="28" />
+  </a>
+</p>
 
 ---
 
@@ -24,19 +33,7 @@
     
 </div>
 
-
----
-
-<h3 align="center">📫 Beni Takip Et</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/773582512647569409" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/ilwixi7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.itemsatis.com/profil/liviuxs.html" target="_blank">
-    <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="28" />
-  </a>
-</p>
+## 👾 Discord Info:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1015356240492245054?hideSpotify=false)](https://discord.com/users/1015356240492245054)
+    
+</div>
