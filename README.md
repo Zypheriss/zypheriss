@@ -1,39 +1,25 @@
-<h1 align="center">👋 Merhaba, ben Zypheris!</h1>
-
+<h1 align="center">Hi , I'm Zypheris <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d3bHN2czY4aXozOWw2dHZhOTZvNWJ6OHp6Z2FmZXVxZWFmc3QwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GCykZsS55J7qPN6iCw/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zypheriss&color=blue" alt="Profil Ziyaretçi Sayacı" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&color=%2300AF17&background=%23ffffff&lines=Full-stack+Developer;@zypheris&gradient=to+right%2C%20%235500AA%2C%2300AF17"></a>
 </p>
 
-
-<h3 align="center">📫 Beni Takip Et</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/773582512647569409" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/ilwixi7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.itemsatis.com/profil/liviuxs.html" target="_blank">
-    <img src="https://github.com/Zypheriss/zypheriss/blob/main/zyp23.png?raw=true" alt="ItemSatış" height="28" />
-  </a>
-</p>
-
----
-
-## 🏆 My Stats:
-    
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Zypheriss&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zypheriss&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="zyp" />
-    <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Zypheriss&theme=radical" />
-</p>    
-    
-    
+<h3>Contact İnformation</h3>
+<a href="https://discord.com/users/773582512647569409" target"_blank"><img src="https://img.shields.io/badge/Thendra%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=purple"></a>
+<a href="https://instagram.com/ilwixi7" target"_blank"><img src="https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=purple"></a>
+<a href="https://open.spotify.com/user/314c4qgsafgrqtpd6tnfandxnkzq" target"_blank"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=purple"></a>
+<a href="https://www.youtube.com/channel/zypherisdev" target"_blank"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=purple"></a>
 </div>
 
-## 👾 Discord Info:
-[![Discord Presence](https://lanyard.cnrad.dev/api/773582512647569409?hideSpotify=false)](https://discord.com/users/773582512647569409)
-    
+<div align="center">
+<h3>Github Stats</h3>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zypheriss&theme=github_dark&show_icons=true"/>
+</div>
+  
+<h3> Technologies I Use</h3>
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,discord,dotnet,kotlin,lua,ps,perl,tailwind,bootstrap,react,nextjs,cpp,cs,nodejs,express,python,mysql,mongodb&perline=7"><br>
+<br>
+<div>
+<h3>Discord Presence</h3>
+<a align="center" href="https://discord.com/users/773582512647569409"><img src="https://lanyard-profile-readme.vercel.app/api/773582512647569409?borderRadius=25px&bg=#282a36"></a>
 </div>
