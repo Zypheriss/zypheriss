@@ -21,5 +21,5 @@
 <br>
 <div>
 <h3>Discord Presence</h3>
-<a align="center" href="https://discord.com/users/773582512647569409"><img src="https://lanyard-profile-readme.vercel.app/api/773582512647569409?borderRadius=25px&bg=#282a36"></a>
+<a align="center" href="https://discord.com/users/773582512647569409"><img src="https://lanyard.cnrad.dev/api/773582512647569409/?theme=light"></a>
 </div>
