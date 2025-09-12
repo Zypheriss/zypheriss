@@ -4,11 +4,15 @@
 </p>
 
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/773582512647569409" target"_blank"><img src="https://img.shields.io/badge/Zypheris%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=purple"></a>
-<a href="https://instagram.com/ilwixi7" target"_blank"><img src="https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=purple"></a>
-<a href="https://open.spotify.com/user/314c4qgsafgrqtpd6tnfandxnkzq" target"_blank"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=purple"></a>
-<a href="https://www.youtube.com/channel/zypherisdev" target"_blank"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=purple"></a>
-</div>
+<a href="https://discord.com/users/773582512647569409" target="_blank"><img src="https://img.shields.io/badge/Zypheris%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=purple"></a>
+<a href="https://instagram.com/ilwixi7" target="_blank"><img src="https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=purple"></a>
+<a href="https://open.spotify.com/user/314c4qgsafgrqtpd6tnfandxnkzq" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=purple"></a>
+<a href="https://www.youtube.com/channel/zypherisdev" target="_blank"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=purple"></a>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@zypheriss?theme=rule34" alt="Profile Views">
+</p>
 
 <div align="center">
 <h3>Github Stats</h3>
