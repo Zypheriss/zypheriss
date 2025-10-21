@@ -25,5 +25,5 @@
 <br>
 <div>
 <h3>Discord Presence</h3>
-[<img src="https://discord.c99.nl/widget/theme-3/961687693882949692.png"></img>](https://discord.com/users/773582512647569409)
+<a align="center" href="https://discord.com/users/773582512647569409"><img src="https://lanyard.cnrad.dev/api/773582512647569409/?theme=light"></a>
 </div>
