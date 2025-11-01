@@ -201,11 +201,28 @@ class Skills {
 
 <br/>
 
-## CURRENTLY PLAYING
+## CONNECT & COLLABORATE
 
 <div align="center">
   
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=314c4qgsafgrqtpd6tnfandxnkzq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=a855f7&bar_color_cover=true" width="500" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="60" />
+        <br/>
+        <strong>OPEN TO COLLABORATE</strong>
+        <br/>
+        <sub>Let's build something amazing</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Music" width="60" />
+        <br/>
+        <strong>SPOTIFY ENTHUSIAST</strong>
+        <br/>
+        <sub>Always coding with music</sub>
+      </td>
+    </tr>
+  </table>
   
 </div>
 
@@ -235,6 +252,8 @@ class Skills {
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
+**"First, solve the problem. Then, write the code."** — John Johnson
+
 **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."** — Martin Fowler
 
 **"Code is like humor. When you have to explain it, it's bad."** — Cory House
@@ -246,7 +265,10 @@ class Skills {
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
+  
+  ### OPEN FOR COLLABORATIONS & OPPORTUNITIES
+  
+  **Let's build something amazing together**
   
 </div>
 
