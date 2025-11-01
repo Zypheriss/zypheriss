@@ -201,25 +201,29 @@ class Skills {
 
 <br/>
 
-## CONNECT & COLLABORATE
+## CONTACT
 
 <div align="center">
   
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="60" />
-        <br/>
-        <strong>OPEN TO COLLABORATE</strong>
-        <br/>
-        <sub>Let's build something amazing</sub>
+        <a href="https://discord.com/users/773582512647569409">
+          <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" />
+          <br/>
+          <strong>DISCORD</strong>
+          <br/>
+          <sub>Zypheris</sub>
+        </a>
       </td>
       <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Music" width="60" />
-        <br/>
-        <strong>SPOTIFY ENTHUSIAST</strong>
-        <br/>
-        <sub>Always coding with music</sub>
+        <a href="mailto:zypheris@outlook.com">
+          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" />
+          <br/>
+          <strong>EMAIL</strong>
+          <br/>
+          <sub>zypheris@outlook.com</sub>
+        </a>
       </td>
     </tr>
   </table>
