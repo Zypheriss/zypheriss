@@ -205,28 +205,13 @@ class Skills {
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://discord.com/users/773582512647569409">
-          <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" />
-          <br/>
-          <strong>DISCORD</strong>
-          <br/>
-          <sub>Zypheris</sub>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="mailto:zypheris@outlook.com">
-          <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" />
-          <br/>
-          <strong>EMAIL</strong>
-          <br/>
-          <sub>zypheris@outlook.com</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://discord.com/users/773582512647569409">
+    <img src="https://img.shields.io/badge/Discord-Zypheris-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:zypheris@outlook.com">
+    <img src="https://img.shields.io/badge/Email-zypheris@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=2C2F33" height="40" />
+  </a>
   
 </div>
 
