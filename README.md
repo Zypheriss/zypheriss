@@ -15,7 +15,7 @@
   <a href="https://discord.com/users/773582512647569409">
     <img src="https://img.shields.io/badge/Discord-Zypheris-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ilwixi7">
+  <a href="https://instagram.com/zypheris777">
     <img src="https://img.shields.io/badge/Instagram-ilwixi7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/user/314c4qgsafgrqtpd6tnfandxnkzq">
