@@ -12,7 +12,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=zypheriss&style=flat-square&color=1F6FEB&label=profile+views" alt="Profile views" />
   <img src="https://img.shields.io/badge/focus-full--stack-58A6FF?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/location-Turkey-F78166?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/location-Bursa-F78166?style=flat-square" alt="Location" />
 </p>
 
 </div>
